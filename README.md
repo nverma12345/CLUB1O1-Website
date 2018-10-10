@@ -6,5 +6,12 @@ Develop a Website for college society CLUB1O1
 # CONTRIBUTION
 Delelop full website with pure HTML,CSS,JQUERY etc.
 
+# Screenshots
+
+<p >
+<img src="https://drive.google.com/file/d/1shRWyO2x1l1YGavBhExjoCQM3_PMY4EG/view?usp=sharing" />
+<img src="https://drive.google.com/open?id=1TbW5-j1cS7oDImuOBaMXwftABpD7kykG" />
+</p>
+
 # License
 GNU General Public License v3.0
